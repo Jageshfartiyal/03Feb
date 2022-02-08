@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.north{
+
+    border: 1px solid black;
+    border-radius: 24px;
+    background-color: mediumpurple;  
+
+}
+
+
+h1{
+    text-align: center;
+}
+img{
+    border-radius: 25px;
+    height: 250px;
+    width: 250px;
+}
+
+.south{
+    border: 1px solid black;
+    border-radius: 24px;
+    background-color: beige;  
+}
